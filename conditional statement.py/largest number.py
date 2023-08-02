@@ -1,0 +1,12 @@
+
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+num3 = float(input("Enter the third number;  "))
+largest = num1
+
+if num2 > largest:
+    largest = num2
+
+if num3 > largest:
+    largest = num3
+print(f"The largest number among {num1}, {num2}, and {num3} is: {largest}")
