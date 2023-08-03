@@ -1,12 +1,12 @@
-class Student:
+class movie:
     def __init__(self, first, second, moviedirector):
         self.firstpart = first
         self.secondpart = second
         self.director = moviedirector
 
 
-obj1 = Student("Adhipurush", "methipurush", "subikyadhav")
-obj2 = Student("vadachennai.1", "vadachennai-2(anbuvin ezhuchi)", "vetrimaran")
+obj1 = movie("Adhipurush", "methipurush", "subikyadhav")
+obj2 = movie("vadachennai.1", "vadachennai-2(anbuvin ezhuchi)", "vetrimaran")
 
 
 print(obj1)
