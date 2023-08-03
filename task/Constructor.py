@@ -6,7 +6,7 @@ class movie:
 
 
 obj1 = movie("Adhipurush", "methipurush", "subikyadhav")
-obj2 = movie("vadachennai.1", "vadachennai-2(anbuvin ezhuchi)", "vetrimaran")
+obj2 = movie("indian.1", "indian-2", "shankar")
 
 
 print(obj1)
